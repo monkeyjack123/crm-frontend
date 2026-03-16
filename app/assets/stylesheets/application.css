@@ -1,1 +1,16 @@
 /* Application styles */
+body {
+  background-color: #f8f9fa;
+}
+
+.card {
+  border-radius: 12px;
+}
+
+.navbar-brand {
+  font-size: 1.75rem;
+}
+
+.display-4 {
+  letter-spacing: -1px;
+}
